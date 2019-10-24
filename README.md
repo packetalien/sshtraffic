@@ -8,7 +8,7 @@ This tool runs uname -r over SSH via Paramiko to a list of non-standard ports.
 
 ---
 
-### For more information on Status Codes, RFC2616, and or PANOS Vulnerability Engine see:
+### For more information on Best Practices see:
 
 * [Reference on Best Practice](https://docs.paloaltonetworks.com/pan-os/8-0/pan-os-admin/threat-prevention/best-practices-for-securing-your-network-from-layer-4-and-layer-7-evasions)
 
